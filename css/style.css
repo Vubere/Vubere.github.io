@@ -28,7 +28,7 @@ body{
   grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto  ;
 }
 .console>div{
- border: 1px solid #ffffff54 ;
+ border: 1px solid #ffffff29 ;
 }
 .update{
   border: 1px solid black;
@@ -64,11 +64,11 @@ body{
   align-items: center;
 }
 .green{
-  background-color: rgba(74, 156, 74, 0.671);
-  border-radius: 5px;
+  background-color: rgba(74, 156, 74, 0.871);
+  border-radius: 2px;
 }
 .red{
-  background-color: rgba(151, 8, 8, 0.582);
+  background-color: rgba(151, 8, 8, 0.882);
 }
 .instructions{
   color: white;
